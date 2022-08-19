@@ -7,7 +7,7 @@ This repo will hold some little testing snippets of code.
 You can run a Rust program after compiling it with the rustc command:
 
 ```
-rustc name.rs
+rustc example.rs
 ```
 However, it is a preferable approach to initialize your projects with Cargo, the Rust package manager, like this:
 
