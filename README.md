@@ -15,6 +15,8 @@ However, it is a preferable approach to initialize your projects with Cargo, the
 cargo init
 ```
 
+This will result in the creation of a file structure that includes a Cargo.toml file and the main.rs file.
+
 Then you can compile it and run it with:
 
 ```
