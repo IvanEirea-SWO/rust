@@ -9,3 +9,8 @@ You can run a Rust program after compiling it with the rustc command:
 ```
 rustc name.rs
 ```
+However, it is a preferable approach to initialize your projects with Cargo, the Rust package manager, like this:
+
+```rust
+cargo init
+```
