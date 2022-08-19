@@ -14,3 +14,9 @@ However, it is a preferable approach to initialize your projects with Cargo, the
 ```rust
 cargo init
 ```
+
+Then you can compile it and run it with:
+
+```
+cargo run
+```
